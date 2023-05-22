@@ -16,7 +16,7 @@ export const HeroPage = () => {
     <div className="row mt-5 animate__animated animate__fadeIn">
       <div className="col-4">
         <img
-          src={`https://github.com/WilsonCorrea5/heroes-single-page-app/docs/heroes/${id}.jpg`}
+          src={`https://github.com/WilsonCorrea5/heroes-single-page-app/tree/main/docs/heroes/${id}.jpg`}
           alt={`Just a SuperHero called ${hero.superhero}`}
           className="img-thumbnail"
         />
