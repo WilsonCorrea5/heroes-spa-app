@@ -1,6 +1,5 @@
 {
   "name": "06-heroes-app-spa",
-  "homepage": "https://github.com/WilsonCorrea5/heroes-single-page-app/",
   "private": true,
   "version": "0.0.0",
   "type": "module",

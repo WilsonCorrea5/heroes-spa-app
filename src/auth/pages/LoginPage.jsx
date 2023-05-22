@@ -23,7 +23,7 @@ export const LoginPage = () => {
           className="rounded-circle img-thumbnail img-fluid"
           width={250}
           height={250}
-          src={`./user_profile.jpg`}
+          src={`./assets/user_profile.jpg`}
           alt="User profile picture"
         />
       </div>
