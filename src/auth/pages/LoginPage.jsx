@@ -23,7 +23,7 @@ export const LoginPage = () => {
           className="rounded-circle img-thumbnail img-fluid"
           width={250}
           height={250}
-          src={`https://github.com/WilsonCorrea5/heroes-single-page-app/blob/main/docs/user_profile.jpg`}
+          src={`./user_profile.jpg`}
           alt="User profile picture"
         />
       </div>
