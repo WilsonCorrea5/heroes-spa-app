@@ -19,4 +19,4 @@ Una sencilla aplicacion creada para practicar diversos conceptos de react js. ta
 
 **Al ser pensada para fortalecer mis habilidades de react, intensionalmente esta aplicacion no esta adaptada visualmente para disositivos moviles, solo para equipos de escritorio**
 
-Mira el resultado [**AQUI**] (https://wilsoncorrea5.github.io/heroes-spa-app/#/login "AQUI")
+Mira el resultado [**AQUI**](https://wilsoncorrea5.github.io/heroes-spa-app/#/login "AQUI")
